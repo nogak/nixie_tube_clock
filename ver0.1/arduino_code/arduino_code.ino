@@ -17,7 +17,7 @@ const int digit_1s = 11;
 void setup(){
     // set initial time
     // setTime(23, 31, 30, 13, 2, 2009);   //set the system time to 23h31m30s on 13Feb2009
-    setTime(0, 25, 5, 18, 10, 2021);   //set the system time to 23h31m30s on 13Feb2009
+    setTime(0, 25, 5, 18, 10, 2021);
     RTC.set(now());                     //set the RTC from the system time
     setSyncProvider(RTC.get);   // the function to get the time from the RTC
 
