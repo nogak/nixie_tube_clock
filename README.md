@@ -21,8 +21,9 @@
 * 昇圧回路(高電圧出力昇圧DC-DCコンバータ：https://www.aitendo.com/product/6872)
 * DCジャック端子(メス)
 
+制作過程(ざっくり)：https://nogak.github.io/mypage/link/nixie_tube.html
 
-garbar_data以下のデータはseeed studioにてプリント基板を発注する際に用いたものです。(一部設計ミスで使えない穴があります。)
+※garbar_data以下のデータはseeed studioにてプリント基板を発注する際に用いたものです。(一部設計ミスで使えない穴があります。)
 
 ## 使用ソフトウェア
 * プリント基板設計：kicad
